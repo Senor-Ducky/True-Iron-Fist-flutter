@@ -1,7 +1,8 @@
 # trueironfist
 
 a Tekken 7 Move List guide for every character with frame data
-
+Here's a video of how the app works:
+https://youtu.be/3uoFl_1hLUs
 ## Getting Started
 
 This project is a starting point for a Flutter application.
