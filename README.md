@@ -3,7 +3,8 @@
 a Tekken 7 Move List guide for every character with frame data
 Here's some screenshots of how the app works:
 
-Movelist credit:mspkvp
+Movelist credit:mspkvp(https://github.com/mspkvp)
+
 
 ![Screenshot_20200706-211544__01](https://user-images.githubusercontent.com/61725851/86613437-3665d400-bfcf-11ea-83d7-5a4070bf9b2e.jpg)
 ![Screenshot_20200706-211606__01](https://user-images.githubusercontent.com/61725851/86613409-2bab3f00-bfcf-11ea-8b9e-ede2b467d760.jpg)
