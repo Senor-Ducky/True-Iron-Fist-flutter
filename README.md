@@ -1,6 +1,6 @@
 # trueironfist
 
-a kazuya mishima guide
+a Tekken 7 Move List guide for every character with frame data
 
 ## Getting Started
 
